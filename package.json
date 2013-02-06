@@ -4,5 +4,6 @@
   "description": "JavaScript SDK for the FamilySearch APIs",
   "dependencies": {
     "superagent": "0.12.x"
-  }
+  },
+  "main": "lib/fs"
 }
